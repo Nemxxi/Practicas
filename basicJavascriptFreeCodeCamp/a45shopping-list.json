@@ -1,0 +1,1 @@
+{"index.js":"var myList = [];\n\nmyList.unshift([\"chocolates\", 5]);\nmyList.unshift([\"leche\", 2]);\nmyList.unshift([\"cereal\", 1]);\nmyList.unshift([\"azucar\", 2]);\nmyList.unshift([\"yogurt\", 1]);"}
